@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+table {
+  border-collapse: collapse;
+}
+td {
+  cursor: pointer;
+  padding: 15px 30px;
+  text-align: center;
+}
+input {
+  text-align: right;
+  border: none;
+}
+input:focus {
+  outline: none;
+}
